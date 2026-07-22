@@ -1,0 +1,50 @@
+class Solution {
+    class combine implements Comparable<combine>{
+        String name;
+        int freq;
+        combine(String name,int freq){
+            this.name=name;
+            this.freq=freq;
+
+        }
+        @Override
+        public int compareTo(combine c){
+            if(this.freq!=c.freq){
+            return this.freq-c.freq;}
+            else{
+             return c.name.compareTo(this.name);
+            }
+        }
+
+    }
+    public List<String> topKFrequent(String[] words, int k) {
+        HashMap<String,Integer>map=new HashMap<>();
+        for(String s:words){
+            map.put(s,map.getOrDefault(s,0)+1);
+        }
+        PriorityQueue<combine>pq=new PriorityQueue<>();
+        for(String s:map.keySet()){
+            pq.add(new combine(s,map.get(s)));
+            // if(pq.size()>k){//dont do this here as it will remove alphabatically smaller vale but we want to keep iy
+            //     pq.remove();
+            // }
+            
+        }
+        ArrayList<String>al=new ArrayList();
+      
+   
+        while (!pq.isEmpty()) {
+            if(pq.size()<=k){
+                al.add(0, pq.remove().name);
+            }else{
+            pq.remove();}
+
+}
+    //   Collections.reverse(al);
+return al;
+
+
+
+        
+    }
+}
