@@ -9,44 +9,41 @@
  * }
  */
 class Solution {
-     ListNode  head=null;
-   ListNode tail=null;
-    public void insert(int val){
-        ListNode temp=new ListNode(val);
-        if(head==null){
-            head=tail=temp;
-        }
-        else{
-            tail.next=temp;
-            tail=temp;
-        }
-    }
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        while(list1!=null&&list2!=null){
-        if(list1.val>=list2.val){
-            insert(list2.val);
-            list2=list2.next;}
-        else{
-            insert(list1.val);
-             list1=list1.next;
-        }
-       
-        
+        ListNode temp=new ListNode();
+        ListNode head=new ListNode();
+        if(list1 == null) return list2;
+if(list2 == null) return list1;
+        if(list1.val<=list2.val){
+               head=list1;}
+               else{
+                head=list2;
+               }
+        while(list1!=null&& list2!=null){
+            if(list1.val<=list2.val){
+                temp.next=list1;
+                temp=temp.next;
+                list1=list1.next;}
+                else{
+                     temp.next=list2;
+                temp=temp.next;
+                list2=list2.next;
+                }
+
         }
         while(list1!=null){
-            insert(list1.val);
-            list1=list1.next;
+              temp.next=list1;
+                temp=temp.next;
+                list1=list1.next;
 
         }
         while(list2!=null){
-            insert(list2.val);
-            list2=list2.next;
+              temp.next=list2;
+                temp=temp.next;
+                list2=list2.next;
 
         }
         return head;
-
-
-
         
     }
 }
