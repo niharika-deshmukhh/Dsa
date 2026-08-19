@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/niharika-deshmukhh/Dsa/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/niharika-deshmukhh/Dsa/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1046-last-stone-weight](https://github.com/niharika-deshmukhh/Dsa/tree/master/1046-last-stone-weight) |
 | [2404-most-frequent-even-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/2404-most-frequent-even-element) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/niharika-deshmukhh/Dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/niharika-deshmukhh/Dsa/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/niharika-deshmukhh/Dsa/tree/master/0451-sort-characters-by-frequency) |
+| [1046-last-stone-weight](https://github.com/niharika-deshmukhh/Dsa/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
