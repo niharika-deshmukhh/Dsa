@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/niharika-deshmukhh/Dsa/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/niharika-deshmukhh/Dsa/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/niharika-deshmukhh/Dsa/tree/master/0041-first-missing-positive) |
 | [0152-maximum-product-subarray](https://github.com/niharika-deshmukhh/Dsa/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/0162-find-peak-element) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/niharika-deshmukhh/Dsa/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/niharika-deshmukhh/Dsa/tree/master/0125-valid-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/niharika-deshmukhh/Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1796-second-largest-digit-in-a-string](https://github.com/niharika-deshmukhh/Dsa/tree/master/1796-second-largest-digit-in-a-string) |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/niharika-deshmukhh/Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [2404-most-frequent-even-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/2404-most-frequent-even-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/niharika-deshmukhh/Dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
