@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/niharika-deshmukhh/Dsa/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/niharika-deshmukhh/Dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/niharika-deshmukhh/Dsa/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/niharika-deshmukhh/Dsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/niharika-deshmukhh/Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/niharika-deshmukhh/Dsa/tree/master/0142-linked-list-cycle-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/niharika-deshmukhh/Dsa/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/niharika-deshmukhh/Dsa/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/niharika-deshmukhh/Dsa/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/niharika-deshmukhh/Dsa/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/niharika-deshmukhh/Dsa/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/0162-find-peak-element) |
 | [0496-next-greater-element-i](https://github.com/niharika-deshmukhh/Dsa/tree/master/0496-next-greater-element-i) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/niharika-deshmukhh/Dsa/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/niharika-deshmukhh/Dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -132,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/niharika-deshmukhh/Dsa/tree/master/0005-longest-palindromic-substring) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/niharika-deshmukhh/Dsa/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/niharika-deshmukhh/Dsa/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
