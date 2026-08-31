@@ -21,9 +21,9 @@ class Solution {
         else if(node==null||subroot==null||node.val!=subroot.val){
             return false;
         }
-        boolean left=issame(node.left,subroot.left);
-        boolean right=issame(node.right,subroot.right);
-        return left && right;
+        // boolean left=issame(node.left,subroot.left);
+        // boolean right=issame(node.right,subroot.right);
+        return issame(node.left,subroot.left) && issame(node.right,subroot.right);
     }
     public boolean isSubtree(TreeNode root, TreeNode subroot) {
         if(root==null||subroot==null){
@@ -34,9 +34,9 @@ class Solution {
                 return true;
             }
         }
-        boolean left=isSubtree(root.left,subroot);
-        boolean right=isSubtree(root.right,subroot);
-        return left ||right;
+        // boolean left=isSubtree(root.left,subroot);
+        // boolean right=isSubtree(root.right,subroot);
+        return isSubtree(root.left,subroot) ||isSubtree(root.right,subroot);
         
     }
 }
