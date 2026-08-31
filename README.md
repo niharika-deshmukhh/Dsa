@@ -148,4 +148,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0572-subtree-of-another-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
