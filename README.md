@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/niharika-deshmukhh/Dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/niharika-deshmukhh/Dsa/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/niharika-deshmukhh/Dsa/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/niharika-deshmukhh/Dsa/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/niharika-deshmukhh/Dsa/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/niharika-deshmukhh/Dsa/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0572-subtree-of-another-tree) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/niharika-deshmukhh/Dsa/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/niharika-deshmukhh/Dsa/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
