@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2404-most-frequent-even-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/2404-most-frequent-even-element) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/niharika-deshmukhh/Dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/niharika-deshmukhh/Dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/niharika-deshmukhh/Dsa/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Stack
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/niharika-deshmukhh/Dsa/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/niharika-deshmukhh/Dsa/tree/master/0509-fibonacci-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/niharika-deshmukhh/Dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Memoization
 |  |
 | ------- |
