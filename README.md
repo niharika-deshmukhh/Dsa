@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/niharika-deshmukhh/Dsa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/niharika-deshmukhh/Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/niharika-deshmukhh/Dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/niharika-deshmukhh/Dsa/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/niharika-deshmukhh/Dsa/tree/master/0682-baseball-game) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/niharika-deshmukhh/Dsa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/niharika-deshmukhh/Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0572-subtree-of-another-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/niharika-deshmukhh/Dsa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/niharika-deshmukhh/Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/niharika-deshmukhh/Dsa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/niharika-deshmukhh/Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0572-subtree-of-another-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
