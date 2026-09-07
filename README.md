@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/niharika-deshmukhh/Dsa/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/niharika-deshmukhh/Dsa/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/niharika-deshmukhh/Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/niharika-deshmukhh/Dsa/tree/master/1046-last-stone-weight) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2404-most-frequent-even-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/2404-most-frequent-even-element) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/niharika-deshmukhh/Dsa/tree/master/1004-max-consecutive-ones-iii) |
 ## Ternary Search
 |  |
 | ------- |
@@ -216,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/niharika-deshmukhh/Dsa/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/niharika-deshmukhh/Dsa/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
