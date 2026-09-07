@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/niharika-deshmukhh/Dsa/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/niharika-deshmukhh/Dsa/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/0162-find-peak-element) |
+| [0485-max-consecutive-ones](https://github.com/niharika-deshmukhh/Dsa/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/niharika-deshmukhh/Dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/niharika-deshmukhh/Dsa/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/niharika-deshmukhh/Dsa/tree/master/0682-baseball-game) |
