@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/niharika-deshmukhh/Dsa/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/niharika-deshmukhh/Dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/niharika-deshmukhh/Dsa/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/niharika-deshmukhh/Dsa/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/0162-find-peak-element) |
 | [0485-max-consecutive-ones](https://github.com/niharika-deshmukhh/Dsa/tree/master/0485-max-consecutive-ones) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/niharika-deshmukhh/Dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/niharika-deshmukhh/Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/niharika-deshmukhh/Dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0226-invert-binary-tree) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/niharika-deshmukhh/Dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/niharika-deshmukhh/Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/niharika-deshmukhh/Dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0226-invert-binary-tree) |
@@ -242,4 +245,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
