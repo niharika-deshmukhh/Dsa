@@ -31,8 +31,8 @@ class Solution {
         int left=height(root.left);
         int right=height(root.right);
         max=Math.max(left+right,max);
-        int left1=diameterOfBinaryTree(root.left);
-        int right1=diameterOfBinaryTree(root.right);
+      diameterOfBinaryTree(root.left);//no need to store it in variable this functions runs and updates the global max
+     diameterOfBinaryTree(root.right);
 
         return max;
         
