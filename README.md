@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/niharika-deshmukhh/Dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/niharika-deshmukhh/Dsa/tree/master/1004-max-consecutive-ones-iii) |
 ## Ternary Search
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/niharika-deshmukhh/Dsa/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/niharika-deshmukhh/Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/niharika-deshmukhh/Dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/niharika-deshmukhh/Dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/niharika-deshmukhh/Dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/niharika-deshmukhh/Dsa/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/niharika-deshmukhh/Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/niharika-deshmukhh/Dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/niharika-deshmukhh/Dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/niharika-deshmukhh/Dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -305,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0208-implement-trie-prefix-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/niharika-deshmukhh/Dsa/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
