@@ -315,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/niharika-deshmukhh/Dsa/tree/master/0222-count-complete-tree-nodes) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/niharika-deshmukhh/Dsa/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
