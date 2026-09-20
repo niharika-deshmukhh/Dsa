@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/niharika-deshmukhh/Dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/niharika-deshmukhh/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/niharika-deshmukhh/Dsa/tree/master/0876-middle-of-the-linked-list) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/niharika-deshmukhh/Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/niharika-deshmukhh/Dsa/tree/master/1046-last-stone-weight) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2404-most-frequent-even-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/niharika-deshmukhh/Dsa/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/niharika-deshmukhh/Dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/niharika-deshmukhh/Dsa/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/niharika-deshmukhh/Dsa/tree/master/0451-sort-characters-by-frequency) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/1382-balance-a-binary-search-tree) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Tree
 |  |
