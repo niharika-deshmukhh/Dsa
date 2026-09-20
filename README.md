@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/niharika-deshmukhh/Dsa/tree/master/0496-next-greater-element-i) |
 | [1796-second-largest-digit-in-a-string](https://github.com/niharika-deshmukhh/Dsa/tree/master/1796-second-largest-digit-in-a-string) |
 | [2404-most-frequent-even-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/2404-most-frequent-even-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/niharika-deshmukhh/Dsa/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/niharika-deshmukhh/Dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Linked List
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2404-most-frequent-even-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/2404-most-frequent-even-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/niharika-deshmukhh/Dsa/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/niharika-deshmukhh/Dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/niharika-deshmukhh/Dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/niharika-deshmukhh/Dsa/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/niharika-deshmukhh/Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [2404-most-frequent-even-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/2404-most-frequent-even-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/niharika-deshmukhh/Dsa/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Trie
 |  |
 | ------- |
