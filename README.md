@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/niharika-deshmukhh/Dsa/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/niharika-deshmukhh/Dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3498-reverse-degree-of-a-string](https://github.com/niharika-deshmukhh/Dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Graph Theory
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/niharika-deshmukhh/Dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1796-second-largest-digit-in-a-string](https://github.com/niharika-deshmukhh/Dsa/tree/master/1796-second-largest-digit-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/niharika-deshmukhh/Dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3498-reverse-degree-of-a-string](https://github.com/niharika-deshmukhh/Dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
