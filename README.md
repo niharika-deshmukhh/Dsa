@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/niharika-deshmukhh/Dsa/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/0162-find-peak-element) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/niharika-deshmukhh/Dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/niharika-deshmukhh/Dsa/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/niharika-deshmukhh/Dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/niharika-deshmukhh/Dsa/tree/master/0503-next-greater-element-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/niharika-deshmukhh/Dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/niharika-deshmukhh/Dsa/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/niharika-deshmukhh/Dsa/tree/master/0222-count-complete-tree-nodes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/niharika-deshmukhh/Dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/niharika-deshmukhh/Dsa/tree/master/1004-max-consecutive-ones-iii) |
 ## Ternary Search
@@ -138,12 +141,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/niharika-deshmukhh/Dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/niharika-deshmukhh/Dsa/tree/master/0075-sort-colors) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/niharika-deshmukhh/Dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/niharika-deshmukhh/Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/niharika-deshmukhh/Dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/niharika-deshmukhh/Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/niharika-deshmukhh/Dsa/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
