@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/niharika-deshmukhh/Dsa/tree/master/1046-last-stone-weight) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1920-build-array-from-permutation](https://github.com/niharika-deshmukhh/Dsa/tree/master/1920-build-array-from-permutation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2404-most-frequent-even-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/niharika-deshmukhh/Dsa/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/niharika-deshmukhh/Dsa/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/niharika-deshmukhh/Dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1920-build-array-from-permutation](https://github.com/niharika-deshmukhh/Dsa/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/niharika-deshmukhh/Dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Graph Theory
 |  |
