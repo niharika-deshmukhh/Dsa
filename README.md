@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/niharika-deshmukhh/Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/niharika-deshmukhh/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0208-implement-trie-prefix-tree) |
+| [0290-word-pattern](https://github.com/niharika-deshmukhh/Dsa/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/niharika-deshmukhh/Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/niharika-deshmukhh/Dsa/tree/master/0496-next-greater-element-i) |
 | [1096-brace-expansion-ii](https://github.com/niharika-deshmukhh/Dsa/tree/master/1096-brace-expansion-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/niharika-deshmukhh/Dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/niharika-deshmukhh/Dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0208-implement-trie-prefix-tree) |
+| [0290-word-pattern](https://github.com/niharika-deshmukhh/Dsa/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/niharika-deshmukhh/Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1096-brace-expansion-ii](https://github.com/niharika-deshmukhh/Dsa/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/niharika-deshmukhh/Dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
