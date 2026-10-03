@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/niharika-deshmukhh/Dsa/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/niharika-deshmukhh/Dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3668-restore-finishing-order](https://github.com/niharika-deshmukhh/Dsa/tree/master/3668-restore-finishing-order) |
 ## Linked List
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/niharika-deshmukhh/Dsa/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/niharika-deshmukhh/Dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/niharika-deshmukhh/Dsa/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/niharika-deshmukhh/Dsa/tree/master/3668-restore-finishing-order) |
 | [3875-construct-uniform-parity-array-i](https://github.com/niharika-deshmukhh/Dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/niharika-deshmukhh/Dsa/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Stack
