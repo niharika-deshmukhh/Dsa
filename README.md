@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/niharika-deshmukhh/Dsa/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/niharika-deshmukhh/Dsa/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/niharika-deshmukhh/Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/niharika-deshmukhh/Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/niharika-deshmukhh/Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/niharika-deshmukhh/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/niharika-deshmukhh/Dsa/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/niharika-deshmukhh/Dsa/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/niharika-deshmukhh/Dsa/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/niharika-deshmukhh/Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/niharika-deshmukhh/Dsa/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/niharika-deshmukhh/Dsa/tree/master/0152-maximum-product-subarray) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/niharika-deshmukhh/Dsa/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/niharika-deshmukhh/Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/niharika-deshmukhh/Dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/niharika-deshmukhh/Dsa/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String
