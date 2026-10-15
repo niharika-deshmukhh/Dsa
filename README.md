@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/niharika-deshmukhh/Dsa/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/niharika-deshmukhh/Dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/niharika-deshmukhh/Dsa/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/niharika-deshmukhh/Dsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/niharika-deshmukhh/Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/niharika-deshmukhh/Dsa/tree/master/0142-linked-list-cycle-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/niharika-deshmukhh/Dsa/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/niharika-deshmukhh/Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/niharika-deshmukhh/Dsa/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/niharika-deshmukhh/Dsa/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/0162-find-peak-element) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/niharika-deshmukhh/Dsa/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/niharika-deshmukhh/Dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/niharika-deshmukhh/Dsa/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/0088-merge-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/niharika-deshmukhh/Dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/niharika-deshmukhh/Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1096-brace-expansion-ii](https://github.com/niharika-deshmukhh/Dsa/tree/master/1096-brace-expansion-ii) |
