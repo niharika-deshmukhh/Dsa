@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/niharika-deshmukhh/Dsa/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/niharika-deshmukhh/Dsa/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/niharika-deshmukhh/Dsa/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/niharika-deshmukhh/Dsa/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/niharika-deshmukhh/Dsa/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/niharika-deshmukhh/Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/niharika-deshmukhh/Dsa/tree/master/0075-sort-colors) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/niharika-deshmukhh/Dsa/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/niharika-deshmukhh/Dsa/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/niharika-deshmukhh/Dsa/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/niharika-deshmukhh/Dsa/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/niharika-deshmukhh/Dsa/tree/master/0055-jump-game) |
 | [1382-balance-a-binary-search-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
