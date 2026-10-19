@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/niharika-deshmukhh/Dsa/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/niharika-deshmukhh/Dsa/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/niharika-deshmukhh/Dsa/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/niharika-deshmukhh/Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/niharika-deshmukhh/Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/niharika-deshmukhh/Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/niharika-deshmukhh/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/niharika-deshmukhh/Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/niharika-deshmukhh/Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/niharika-deshmukhh/Dsa/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/0162-find-peak-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/niharika-deshmukhh/Dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -391,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/niharika-deshmukhh/Dsa/tree/master/1096-brace-expansion-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/niharika-deshmukhh/Dsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
