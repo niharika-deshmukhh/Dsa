@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/niharika-deshmukhh/Dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2404-most-frequent-even-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/2404-most-frequent-even-element) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/niharika-deshmukhh/Dsa/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/niharika-deshmukhh/Dsa/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/niharika-deshmukhh/Dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/niharika-deshmukhh/Dsa/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/niharika-deshmukhh/Dsa/tree/master/1668-maximum-repeating-substring) |
 | [1796-second-largest-digit-in-a-string](https://github.com/niharika-deshmukhh/Dsa/tree/master/1796-second-largest-digit-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/niharika-deshmukhh/Dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/niharika-deshmukhh/Dsa/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3498-reverse-degree-of-a-string](https://github.com/niharika-deshmukhh/Dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
