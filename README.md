@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/niharika-deshmukhh/Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1096-brace-expansion-ii](https://github.com/niharika-deshmukhh/Dsa/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/niharika-deshmukhh/Dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1668-maximum-repeating-substring](https://github.com/niharika-deshmukhh/Dsa/tree/master/1668-maximum-repeating-substring) |
 | [1796-second-largest-digit-in-a-string](https://github.com/niharika-deshmukhh/Dsa/tree/master/1796-second-largest-digit-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/niharika-deshmukhh/Dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3498-reverse-degree-of-a-string](https://github.com/niharika-deshmukhh/Dsa/tree/master/3498-reverse-degree-of-a-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/niharika-deshmukhh/Dsa/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/niharika-deshmukhh/Dsa/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/niharika-deshmukhh/Dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1668-maximum-repeating-substring](https://github.com/niharika-deshmukhh/Dsa/tree/master/1668-maximum-repeating-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/niharika-deshmukhh/Dsa/tree/master/0572-subtree-of-another-tree) |
+| [1668-maximum-repeating-substring](https://github.com/niharika-deshmukhh/Dsa/tree/master/1668-maximum-repeating-substring) |
 ## Binary Tree
 |  |
 | ------- |
