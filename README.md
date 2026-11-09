@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/niharika-deshmukhh/Dsa/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/niharika-deshmukhh/Dsa/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/niharika-deshmukhh/Dsa/tree/master/0876-middle-of-the-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/niharika-deshmukhh/Dsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/niharika-deshmukhh/Dsa/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/niharika-deshmukhh/Dsa/tree/master/0509-fibonacci-number) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/niharika-deshmukhh/Dsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/niharika-deshmukhh/Dsa/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/niharika-deshmukhh/Dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Memoization
@@ -415,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/niharika-deshmukhh/Dsa/tree/master/0128-longest-consecutive-sequence) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/niharika-deshmukhh/Dsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
